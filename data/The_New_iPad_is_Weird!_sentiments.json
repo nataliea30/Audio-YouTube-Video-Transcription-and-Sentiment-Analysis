@@ -1,0 +1,850 @@
+[
+    {
+        "text": "So I've spent some time trying to understand this iPad.",
+        "start": 2637,
+        "end": 6837,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6674467325210571,
+        "speaker": null
+    },
+    {
+        "text": "I've never been so confused by so many choices in one new product.",
+        "start": 6987,
+        "end": 11212,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.803992509841919,
+        "speaker": null
+    },
+    {
+        "text": "So this is a new temp generation baseline iPad, and it's one of those bright new colors too.",
+        "start": 11275,
+        "end": 16897,
+        "sentiment": "POSITIVE",
+        "confidence": 0.7739590406417847,
+        "speaker": null
+    },
+    {
+        "text": "And this thing has a slightly new design, which is overall improved.",
+        "start": 16930,
+        "end": 20307,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9215606451034546,
+        "speaker": null
+    },
+    {
+        "text": "The home button is gone.",
+        "start": 20397,
+        "end": 21667,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.518719494342804,
+        "speaker": null
+    },
+    {
+        "text": "It's a pretty familiar rectangular shape now with flatter sides.",
+        "start": 21715,
+        "end": 24762,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5466473698616028,
+        "speaker": null
+    },
+    {
+        "text": "The new colors are actually kind of saturated, which is neat.",
+        "start": 24837,
+        "end": 27897,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9674111604690552,
+        "speaker": null
+    },
+    {
+        "text": "This one here is yellow, but there's also a pink and a blue on top of the safe bet, silver.",
+        "start": 27942,
+        "end": 34272,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7345035076141357,
+        "speaker": null
+    },
+    {
+        "text": "It's slightly less saturated than it looks on Apple's website, though, there's a touch ID button up top, so you do get Biometric unlocking, even though there's no home button.",
+        "start": 34392,
+        "end": 41917,
+        "sentiment": "POSITIVE",
+        "confidence": 0.7020295262336731,
+        "speaker": null
+    },
+    {
+        "text": "Thinner bezels thinner anyway.",
+        "start": 42040,
+        "end": 44632,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7870335578918457,
+        "speaker": null
+    },
+    {
+        "text": "And a slightly larger eleven inch LCD screen up front.",
+        "start": 44785,
+        "end": 47797,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7929325103759766,
+        "speaker": null
+    },
+    {
+        "text": "Landscape stereo speakers, a bump from an eight to a twelve megapixel camera on the back, and an A 14 Bionic chip inside.",
+        "start": 47905,
+        "end": 55402,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8623746633529663,
+        "speaker": null
+    },
+    {
+        "text": "Not their newest, but it's a step up from the A 13 Bionic that's in the nine gen iPad.",
+        "start": 55570,
+        "end": 59997,
+        "sentiment": "POSITIVE",
+        "confidence": 0.6249237060546875,
+        "speaker": null
+    },
+    {
+        "text": "So none of that is confusing.",
+        "start": 60042,
+        "end": 61287,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.678053617477417,
+        "speaker": null
+    },
+    {
+        "text": "They're modernizing the baseline iPad great.",
+        "start": 61362,
+        "end": 64342,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9672747254371643,
+        "speaker": null
+    },
+    {
+        "text": "But then that's where some of the weirdness starts.",
+        "start": 64465,
+        "end": 66972,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.6484380960464478,
+        "speaker": null
+    },
+    {
+        "text": "So first of all, upgrades to USB type C.",
+        "start": 67017,
+        "end": 71197,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.805869460105896,
+        "speaker": null
+    },
+    {
+        "text": "Finally.",
+        "start": 71380,
+        "end": 71902,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.4643336832523346,
+        "speaker": null
+    },
+    {
+        "text": "Now it's not Thunderbolt speeds or anything, but hey, you can now finally plug in USBC flash drives.",
+        "start": 71995,
+        "end": 77322,
+        "sentiment": "POSITIVE",
+        "confidence": 0.6048169732093811,
+        "speaker": null
+    },
+    {
+        "text": "You can charge fast, you can even plug in an external display up to which you were definitely not doing with the Lightning port before.",
+        "start": 77367,
+        "end": 87952,
+        "sentiment": "POSITIVE",
+        "confidence": 0.6406208872795105,
+        "speaker": null
+    },
+    {
+        "text": "I had been asking for USBC.",
+        "start": 88045,
+        "end": 89562,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7950249314308167,
+        "speaker": null
+    },
+    {
+        "text": "Getting it in the base iPad now is great.",
+        "start": 89637,
+        "end": 91672,
+        "sentiment": "POSITIVE",
+        "confidence": 0.980535626411438,
+        "speaker": null
+    },
+    {
+        "text": "It's confusing though, because they also announced that this iPad will support the first generation Apple Pencil, which, if you remember it's Lightning.",
+        "start": 91780,
+        "end": 104817,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.4942414462566376,
+        "speaker": null
+    },
+    {
+        "text": "This was the pencil that infamously, hilariously plugged into the bottom of the old iPads to charge via that Lightning port.",
+        "start": 104877,
+        "end": 112297,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5884494185447693,
+        "speaker": null
+    },
+    {
+        "text": "But if we're USBC now, then that means oh God.",
+        "start": 112405,
+        "end": 116362,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5657599568367004,
+        "speaker": null
+    },
+    {
+        "text": "Oh no, it's happening.",
+        "start": 116425,
+        "end": 118447,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.623681366443634,
+        "speaker": null
+    },
+    {
+        "text": "This needs a USB C to Lightning adapter to charge the pencil.",
+        "start": 118555,
+        "end": 124197,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8510990142822266,
+        "speaker": null
+    },
+    {
+        "text": "I'm sure no one will ever lose this.",
+        "start": 124242,
+        "end": 126472,
+        "sentiment": "POSITIVE",
+        "confidence": 0.8035725355148315,
+        "speaker": null
+    },
+    {
+        "text": "It also comes in this separate piece of packaging.",
+        "start": 126580,
+        "end": 129252,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8915079832077026,
+        "speaker": null
+    },
+    {
+        "text": "It doesn't come in the iPad box or in the Apple Pencil box.",
+        "start": 129282,
+        "end": 132217,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6280301213264465,
+        "speaker": null
+    },
+    {
+        "text": "It's more packaging, which is a little more wasteful, but also, y, if you ever do lose it and need another one, $9.",
+        "start": 132265,
+        "end": 137502,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.6143177151679993,
+        "speaker": null
+    },
+    {
+        "text": "But I'm still just thinking, like Apple, you made a new pencil, a second gen pencil.",
+        "start": 137532,
+        "end": 142302,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5522496700286865,
+        "speaker": null
+    },
+    {
+        "text": "That's way better.",
+        "start": 142332,
+        "end": 143047,
+        "sentiment": "POSITIVE",
+        "confidence": 0.8193029165267944,
+        "speaker": null
+    },
+    {
+        "text": "The second generation pencil snaps onto the side of the iPad Air, or the iPad Pro with magnets and charges wirelessly.",
+        "start": 143080,
+        "end": 150942,
+        "sentiment": "POSITIVE",
+        "confidence": 0.5891382694244385,
+        "speaker": null
+    },
+    {
+        "text": "Where is that one?",
+        "start": 151077,
+        "end": 151897,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7843242287635803,
+        "speaker": null
+    },
+    {
+        "text": "Here.",
+        "start": 151930,
+        "end": 152077,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.571090042591095,
+        "speaker": null
+    },
+    {
+        "text": "I feel like I've been through every version of this in my head, but basically what I've come up with is some people would probably say that Apple knows that there are going to be groups of people, businesses, schools, that have the older 9th generation iPad and they have pencils, and they're going to want to continue using those pencils when they upgrade to this new iPad.",
+        "start": 152095,
+        "end": 173037,
+        "sentiment": "POSITIVE",
+        "confidence": 0.5417025089263916,
+        "speaker": null
+    },
+    {
+        "text": "That's why they kept support for the old Apple Pencil.",
+        "start": 173187,
+        "end": 177212,
+        "sentiment": "POSITIVE",
+        "confidence": 0.6062485575675964,
+        "speaker": null
+    },
+    {
+        "text": "And to those people I would say, but you make both.",
+        "start": 177637,
+        "end": 181700,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7615232467651367,
+        "speaker": null
+    },
+    {
+        "text": "Why not both?",
+        "start": 182512,
+        "end": 183337,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7290392518043518,
+        "speaker": null
+    },
+    {
+        "text": "So honestly, the real answer is most likely because this is the first ever iPad to move the webcam to that long side.",
+        "start": 183400,
+        "end": 190282,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7084337472915649,
+        "speaker": null
+    },
+    {
+        "text": "The long bezel lowkey.",
+        "start": 190360,
+        "end": 191802,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7920006513595581,
+        "speaker": null
+    },
+    {
+        "text": "That might be the best change in this whole piece of hardware.",
+        "start": 191832,
+        "end": 194277,
+        "sentiment": "POSITIVE",
+        "confidence": 0.950772225856781,
+        "speaker": null
+    },
+    {
+        "text": "So now when you're on video calls or doing anything while looking at the camera, it will actually look like you're looking at the camera instead of way off to the side like in every other iPad.",
+        "start": 194382,
+        "end": 204522,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6768661737442017,
+        "speaker": null
+    },
+    {
+        "text": "So this is a welcome change.",
+        "start": 204567,
+        "end": 205987,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9655558466911316,
+        "speaker": null
+    },
+    {
+        "text": "But now that means the spot that you'd normally slap on the second generation Apple Pencil with magnets and a cutout, well, that's now populated by webcam housing.",
+        "start": 206125,
+        "end": 215007,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5962502956390381,
+        "speaker": null
+    },
+    {
+        "text": "And the other side has the Smart pins, which I'll get to in a second.",
+        "start": 215097,
+        "end": 217882,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7916997075080872,
+        "speaker": null
+    },
+    {
+        "text": "And then the top and the bottom are speakers.",
+        "start": 217960,
+        "end": 219747,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7782454490661621,
+        "speaker": null
+    },
+    {
+        "text": "And apparently it would be too unApple, like to put it off to the side asymmetrical like that or something, just to have space for the cutouts.",
+        "start": 219792,
+        "end": 227462,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5231432914733887,
+        "speaker": null
+    },
+    {
+        "text": "Basically.",
+        "start": 227887,
+        "end": 228472,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.4946753680706024,
+        "speaker": null
+    },
+    {
+        "text": "Apple also came out with their new M two iPad pro at the same time as this.",
+        "start": 228580,
+        "end": 232042,
+        "sentiment": "POSITIVE",
+        "confidence": 0.7441112995147705,
+        "speaker": null
+    },
+    {
+        "text": "That also has a twelve megapixel ultra wide webcam with center stage just like this one.",
+        "start": 232090,
+        "end": 237292,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7490136027336121,
+        "speaker": null
+    },
+    {
+        "text": "But it's not moved to the long side, it's still on that side spot.",
+        "start": 237415,
+        "end": 241617,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8422258496284485,
+        "speaker": null
+    },
+    {
+        "text": "Which leads me to believe that Apple has used this as a direct compromise.",
+        "start": 241677,
+        "end": 245292,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7469114065170288,
+        "speaker": null
+    },
+    {
+        "text": "You can either have the new Apple Pencil and that will charge at the top, or you can have the webcam on the long side, one or the other, but not both.",
+        "start": 245352,
+        "end": 255007,
+        "sentiment": "POSITIVE",
+        "confidence": 0.5528554320335388,
+        "speaker": null
+    },
+    {
+        "text": "And I guess we'll never see an iPad Pro with a webcam in the right spot.",
+        "start": 255085,
+        "end": 259347,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.5604336857795715,
+        "speaker": null
+    },
+    {
+        "text": "So for those who want a little bit more out of the baseline iPad, apple has also dropped a brand new, completely redesigned twopiece magic keyboard folio for the iPad.",
+        "start": 259392,
+        "end": 268797,
+        "sentiment": "POSITIVE",
+        "confidence": 0.8242877125740051,
+        "speaker": null
+    },
+    {
+        "text": "I actually really like most of it.",
+        "start": 268842,
+        "end": 270127,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9610145688056946,
+        "speaker": null
+    },
+    {
+        "text": "This first piece is just like a back plate that attaches to the iPad with magnets and then acts as just a kickstand, basically.",
+        "start": 270145,
+        "end": 275887,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.844194769859314,
+        "speaker": null
+    },
+    {
+        "text": "Very surface, very useful.",
+        "start": 276025,
+        "end": 278097,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9053915739059448,
+        "speaker": null
+    },
+    {
+        "text": "And then with the second piece, it's just a new keyboard with a new full function row up at the top.",
+        "start": 278217,
+        "end": 284587,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7632018327713013,
+        "speaker": null
+    },
+    {
+        "text": "So now that the smart connector pins are on the side edge instead of the back, you can just slap on or remove the keyboard at any time and just go straight to the iPad.",
+        "start": 284650,
+        "end": 293202,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5330040454864502,
+        "speaker": null
+    },
+    {
+        "text": "So this twopiece setup has its benefits and drawbacks.",
+        "start": 293232,
+        "end": 295497,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7091085314750671,
+        "speaker": null
+    },
+    {
+        "text": "The main drawback really being that it's not as laughable, it's much more suited for working on a desk or a more stable surface because of the weight distribution.",
+        "start": 295542,
+        "end": 303012,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5025749802589417,
+        "speaker": null
+    },
+    {
+        "text": "But the benefit is it's two pieces, it's modular.",
+        "start": 303087,
+        "end": 305367,
+        "sentiment": "POSITIVE",
+        "confidence": 0.7109733819961548,
+        "speaker": null
+    },
+    {
+        "text": "So now you can just go straight kickstand if you want to just watch a movie or a show with no hands, or you can add a keyboard anytime you want to type, or if you want, if you want to be mobile.",
+        "start": 305427,
+        "end": 314982,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5660338401794434,
+        "speaker": null
+    },
+    {
+        "text": "But take the keyboard with you, you can flip the keyboard around so that you're not feeling those buttons on the back all the time every time you're holding the thing.",
+        "start": 314997,
+        "end": 321712,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7142041921615601,
+        "speaker": null
+    },
+    {
+        "text": "So that's nice.",
+        "start": 321775,
+        "end": 322492,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9707956314086914,
+        "speaker": null
+    },
+    {
+        "text": "I like the idea, but there are still a couple head scratchers.",
+        "start": 322540,
+        "end": 325407,
+        "sentiment": "POSITIVE",
+        "confidence": 0.5789717435836792,
+        "speaker": null
+    },
+    {
+        "text": "First of all, this new two piece setup is not coming to the new iPad Pro for some reason.",
+        "start": 325497,
+        "end": 331192,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.7312992811203003,
+        "speaker": null
+    },
+    {
+        "text": "I would think if you like those function keys that you'd want that for the iPad Pro, but this is only for this iPad.",
+        "start": 331240,
+        "end": 336297,
+        "sentiment": "POSITIVE",
+        "confidence": 0.4917815923690796,
+        "speaker": null
+    },
+    {
+        "text": "But then also this iPad does not get Stage Manager, not that Stage Manager is that amazing or anything, but this would have been nice for people who want to use that USB C, plug it into an external monitor, and get a little bit more window management, a little bit more of that multitasking going on, but this one won't do.",
+        "start": 336342,
+        "end": 354727,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.42258933186531067,
+        "speaker": null
+    },
+    {
+        "text": "That weird.",
+        "start": 354745,
+        "end": 355647,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.7000400424003601,
+        "speaker": null
+    },
+    {
+        "text": "But then the biggest head scratcher of them all has got to be the prices, right?",
+        "start": 355692,
+        "end": 359782,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.7910928726196289,
+        "speaker": null
+    },
+    {
+        "text": "So this is still a $250 keyboard and case accessory.",
+        "start": 359860,
+        "end": 366747,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6441988348960876,
+        "speaker": null
+    },
+    {
+        "text": "And then this new iPad here is starting at $450, which is a pretty big price bump from the 19 iPad we just upgraded from, which stays in Apple's lineup at $330 unchanged.",
+        "start": 366867,
+        "end": 379712,
+        "sentiment": "POSITIVE",
+        "confidence": 0.8663310408592224,
+        "speaker": null
+    },
+    {
+        "text": "This might be kind of a hot take, but I don't really understand why this one exists.",
+        "start": 380512,
+        "end": 385002,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.6927315592765808,
+        "speaker": null
+    },
+    {
+        "text": "I'm not even saying it's a bad product.",
+        "start": 385107,
+        "end": 386662,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5794923901557922,
+        "speaker": null
+    },
+    {
+        "text": "It's a perfectly good iPad.",
+        "start": 386725,
+        "end": 388377,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9288371801376343,
+        "speaker": null
+    },
+    {
+        "text": "It works.",
+        "start": 388407,
+        "end": 388942,
+        "sentiment": "POSITIVE",
+        "confidence": 0.7574517130851746,
+        "speaker": null
+    },
+    {
+        "text": "It does all the things.",
+        "start": 388990,
+        "end": 389722,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6998648643493652,
+        "speaker": null
+    },
+    {
+        "text": "It's got the new chip, it's got the little things, it's got WiFi Six now, it's got a perfectly fine display.",
+        "start": 389755,
+        "end": 395517,
+        "sentiment": "POSITIVE",
+        "confidence": 0.8838457465171814,
+        "speaker": null
+    },
+    {
+        "text": "It's got USBC, the new colors, it's thin, it's a tablet, it's fine.",
+        "start": 395577,
+        "end": 400550,
+        "sentiment": "POSITIVE",
+        "confidence": 0.7962652444839478,
+        "speaker": null
+    },
+    {
+        "text": "It's weird.",
+        "start": 401212,
+        "end": 401922,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.7368846535682678,
+        "speaker": null
+    },
+    {
+        "text": "Like, if you just want a basic iPad, this person still exists, right?",
+        "start": 401967,
+        "end": 404842,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5163437128067017,
+        "speaker": null
+    },
+    {
+        "text": "Oh, I just want to get a basic iPad.",
+        "start": 404890,
+        "end": 407457,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.43731141090393066,
+        "speaker": null
+    },
+    {
+        "text": "That's the schools, the businesses, that's the mom's getting it to put it in a giant phone case and hand it to their kids to watch videos.",
+        "start": 407547,
+        "end": 415102,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6775161027908325,
+        "speaker": null
+    },
+    {
+        "text": "I just need an iPad that's still the $329 gen iPad.",
+        "start": 415270,
+        "end": 420102,
+        "sentiment": "POSITIVE",
+        "confidence": 0.6821520328521729,
+        "speaker": null
+    },
+    {
+        "text": "It's 100 something dollars cheaper.",
+        "start": 420132,
+        "end": 421677,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6812306642532349,
+        "speaker": null
+    },
+    {
+        "text": "It's a better deal.",
+        "start": 421707,
+        "end": 422782,
+        "sentiment": "POSITIVE",
+        "confidence": 0.6086258888244629,
+        "speaker": null
+    },
+    {
+        "text": "That's still the one I would recommend for those people.",
+        "start": 422935,
+        "end": 425392,
+        "sentiment": "POSITIVE",
+        "confidence": 0.6811175346374512,
+        "speaker": null
+    },
+    {
+        "text": "But then the second you think like, oh, I might want a little bit more from my iPad, I want to do a little more, right?",
+        "start": 425440,
+        "end": 431107,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5605430603027344,
+        "speaker": null
+    },
+    {
+        "text": "Maybe I want to use it as a pseudo computer a little bit.",
+        "start": 431185,
+        "end": 435277,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7480911612510681,
+        "speaker": null
+    },
+    {
+        "text": "The second you think, oh, I want it to be a real computer.",
+        "start": 435370,
+        "end": 437887,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6394031643867493,
+        "speaker": null
+    },
+    {
+        "text": "This is 64 gigs at the baseline in 2022.",
+        "start": 438025,
+        "end": 441577,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.9207410216331482,
+        "speaker": null
+    },
+    {
+        "text": "Not real computer storage.",
+        "start": 441745,
+        "end": 443472,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.5011349320411682,
+        "speaker": null
+    },
+    {
+        "text": "So you bump up to real computer storage and then this, plus this is $850.",
+        "start": 443517,
+        "end": 451025,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6198571920394897,
+        "speaker": null
+    },
+    {
+        "text": "What I mean, you could get an iPad Air for that price.",
+        "start": 453337,
+        "end": 455692,
+        "sentiment": "POSITIVE",
+        "confidence": 0.5526014566421509,
+        "speaker": null
+    },
+    {
+        "text": "You could get an iPad Pro for that price.",
+        "start": 455740,
+        "end": 457972,
+        "sentiment": "POSITIVE",
+        "confidence": 0.770477831363678,
+        "speaker": null
+    },
+    {
+        "text": "You could also just get a computer for that price.",
+        "start": 458080,
+        "end": 460942,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6901876330375671,
+        "speaker": null
+    },
+    {
+        "text": "So this is a strange combination of things to exist together for that amount of money.",
+        "start": 461065,
+        "end": 467497,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5079154372215271,
+        "speaker": null
+    },
+    {
+        "text": "Like, even without the keyboard, this iPad 64 gigs in 2022 for $450 is just weird.",
+        "start": 467530,
+        "end": 474717,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.8574499487876892,
+        "speaker": null
+    },
+    {
+        "text": "So, in conclusion, this is a slightly strange set of stuff.",
+        "start": 474777,
+        "end": 479977,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.5254784226417542,
+        "speaker": null
+    },
+    {
+        "text": "Slotted between sweet and simple.",
+        "start": 480145,
+        "end": 483500,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7210845351219177,
+        "speaker": null
+    },
+    {
+        "text": "Sufficient for some, but pretty silly for me.",
+        "start": 484237,
+        "end": 488000,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.6166224479675293,
+        "speaker": null
+    },
+    {
+        "text": "Thanks for watching.",
+        "start": 489262,
+        "end": 489825,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9529334306716919,
+        "speaker": null
+    }
+]
