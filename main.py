@@ -11,10 +11,11 @@ def save_video_sentiments(url):
     save_transcript(audio_url, title, sentiment_analysis= True)
 
 if __name__ == "__main__":
-    #save_video_sentiments("https://www.youtube.com/watch?v=C6Ni9rH6VmA")
+    save_video_sentiments("") #input link of YouTube videdo here.
 
 
-    with open("data/The_New_iPad_is_Weird!_sentiments.json", "r") as f:
+    #The JSON file that is returned from entering the Youtube Video is put into here, for it to be analyzed. 
+    with open("data/JSON file goes here", "r") as f:
         data = json.load(f)
 
     positives = []
