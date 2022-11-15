@@ -18,6 +18,6 @@ def get_audio_url(video_info):
             return f["url"]
 
 if __name__ == "__main__":
-    video_info = get_video_info("https://www.youtube.com/watch?v=C6Ni9rH6VmA")
+    video_info = get_video_info("Put YouTube video link here")
     audio_url = get_audio_url(video_info)
     print(audio_url)
